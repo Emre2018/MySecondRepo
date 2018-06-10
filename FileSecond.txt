@@ -1,0 +1,11 @@
+1. Apples
+2. Bananas
+3. Plums
+4. Nectarins
+5. Peaches
+6. Honey Dew Melon
+7. Cantaloupe
+8. Potato
+9. Strawberries
+10. Cucumber
+
